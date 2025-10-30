@@ -6,6 +6,12 @@
 - Lê Thị Diễm Liêl
 - Nguyễn Thị Thùy Linh
 
+## Nội dung repository
+
+- `data/`: chứa dataset PIMA
+- `BAO_CAO_DIABETES.pdf`: file báo cáo PDF của nhóm
+- `Diabetes_Pima.ipynb`: file notebook chứa code dự đoán bệnh
+
 ## Mục tiêu chính
 Mục đích cốt lõi của dự án này là phân tích dữ liệu sức khỏe của một nhóm đối tượng là người phụ nữ da đỏ Pima từ 21 tuổi trở lên. Để dự đoán liệu họ có bị bệnh tiểu đường hay không.
 
