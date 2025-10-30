@@ -22,13 +22,13 @@ Các chỉ số y tế khác nhau (biến dự đoán):
 
 * Số lần mang thai (Pregnancies)
       
-* Mức đường huyết (Glucose Level)
+* Mức đường huyết (Glucose)
       
-* Huyết áp (Blood Pressure)
+* Huyết áp (BloodPressure)
       
-* Độ dày da (Skin Thickness)
+* Độ dày da (SkinThickness)
       
-* Mức Insulin (Insulin Level)
+* Mức Insulin (Insulin)
       
 * Chỉ số khối cơ thể (BMI)
       
